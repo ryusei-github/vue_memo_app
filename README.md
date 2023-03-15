@@ -1,5 +1,7 @@
 # vue-memo-app
-
+Vueで作ったメモアプリになります。<br>
+＜使用＞<br>
+Vue3/VueX/Vue Router<br>
 ## Project setup
 ```
 npm install
