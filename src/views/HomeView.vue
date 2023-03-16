@@ -1,7 +1,10 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <HelloWorld msg="Welcome to Memo App"/>
+    <router-link to="/memo">Add your memo</router-link>
+  </div>
+  <div>
+    <img alt="memo logo" class="image" src="../assets/memo2.png">
   </div>
 </template>
 
