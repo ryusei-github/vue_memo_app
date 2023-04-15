@@ -2,7 +2,7 @@
 Vueで作ったメモアプリになります。<br>
 ＜使用＞<br>
 Vue3/VueX/Vue Router<br>
-※メモの保存先は現在露かるストレージになります
+※メモの保存先は現在ローカルストレージになります
 ## Project setup
 ```
 npm install
